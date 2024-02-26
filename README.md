@@ -2,7 +2,7 @@
 
 <div align='center'>
 
- <img src="./logo/logo.png" alt="Billed Logo" title="Billed Logo" width="115" height="auto" />
+ <img src="./logo/logo.png" alt="Billed Logo" title="Billed Logo" width="150" height="auto" />
 
 </div><br>
 
@@ -10,6 +10,9 @@
 
 Saas for employees parts, allows the entry of expenses.<br>
 Saas for HR employees expenses consultation and validation.<br>
+
+<strong>Front end at:</strong> https://github.com/Git-EJ/OC_P9-Front/tree/main
+<br>
 
 
 <strong>Project:</strong> front and back end are provided by OC. 
