@@ -2,7 +2,7 @@
 
 <div align='center'>
 
- <img src="./src/assets/logo/logo.png" alt="Billed Logo" title="Billed Logo" width="115" height="auto" />
+ <img src="./logo/logo.png" alt="Billed Logo" title="Billed Logo" width="115" height="auto" />
 
 </div><br>
 
