@@ -2,14 +2,14 @@
 
 <div align='center'>
 
- <img src="./logo/logo.png" alt="Billed Logo" title="Billed Logo" width="150" height="auto" />
+ <img src="./logo/logo.png" alt="Billed Logo" title="Billed Logo" width="115" height="auto" />
 
 </div><br>
 
 <h2>Billed: Saas Human Resources for employees expenses</h2><br>
 
 Saas for employees parts, allows the entry of expenses.<br>
-Saas for HR employees expenses consultation and validation.<br>
+Saas for HR employees expenses consultation and validation.
 
 <strong>Front end at:</strong> https://github.com/Git-EJ/OC_P9-Front/tree/main
 <br>
